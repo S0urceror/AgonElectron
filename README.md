@@ -1,5 +1,5 @@
 # AgonElectron
-Binary distribution of Agon Electron HAL and OS. This contains both the ESP and EZ80 images for Quark and Electron. Plus the adapted Flash tool.
+Binary distribution of Agon Electron HAL and OS. This contains both the ESP and EZ80 images for Quark and Electron. Plus the adapted Flash tool that allows you to switch between EZ80 and ESP32 OS-es without reflashing.
 
 N.B. 
 * Quark VDP and MOS is the official Agon Light OS and is by Dean Belfield (@breakintoprogram)
