@@ -1,9 +1,10 @@
 # AgonElectron
 Binary distribution of Agon Electron HAL and OS. This contains both the ESP and EZ80 images for Quark and Electron. Plus the adapted Flash tool that allows you to switch between EZ80 and ESP32 OS-es without reflashing.
 
-N.B. 
+#### Credits
 * Quark VDP and MOS is the official Agon Light OS and is by Dean Belfield (@breakintoprogram)
 * Flash tool is orginally by Jeroen Venema (@envenomator)
+* ESP32 firmware switching by Sascha Schneider (@astralaster)
 
 ## Preparation
 1. Download this repository: [link](https://github.com/S0urceror/AgonElectron/zipball/main))
