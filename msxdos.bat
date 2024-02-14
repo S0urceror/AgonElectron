@@ -1,4 +1,5 @@
 init
+personality 130
 load -0 /msx/bios.bin
 load -1 /msx/bios.bin
 load -1 /msx/diskrom.bin
