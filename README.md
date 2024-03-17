@@ -10,8 +10,8 @@ Binary distribution of Agon Electron HAL and OS. This contains both the ESP and 
 1. Download this repository: [link](https://github.com/S0urceror/AgonElectron/zipball/main))
 2. Put the contents of this repository in the root of an SD card.
 3. Flash the latest Quark VDP: ```flash firmware/vdp-1.04.bin```
-4. Flash Electron HAL, VDP replacement: ```flash firmware/AgonElectronHAL-0.8.1.bin```
-5. Flash combined Quark MOS / Electron OS image: ```flash firmware/MOS-1.0.4-EOS-0.8.1.bin```
+4. Flash Electron HAL, VDP replacement: ```flash firmware/AgonElectronHAL-0.9.0.bin```
+5. Flash combined Quark MOS / Electron OS image: ```flash firmware/MOS-1.0.4-EOS-0.9.0.bin```
 
 ## Switching
 * Switch between ESP32 images (Quark VDP / Electron HAL) with the following command: ```flash vdp-switch```
